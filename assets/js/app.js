@@ -52,9 +52,9 @@ const cvDatabase = [
     {
         title: "CV Kreatif Modern",
         category: "Desain / Marketing",
-        desc: "Layout 2 kolom dengan aksen warna dan tempat foto profil besar.",
-        img: "assets/img/cv/cv-2.jpg",
-        link: "https://docs.google.com/presentation/create"
+        desc: "CV Kreatif fresh graduate dengan aksen warna dan tempat foto profil besar.",
+        img: "assets/img/cv/cvkreatif1.jpg",
+        link: "https://docs.google.com/document/d/1NqNG4CmV7zIswTAZkdov6GUxot1SkPbT/view"
     },
     {
         title: "CV Fresh Graduate",
@@ -515,4 +515,5 @@ const app = {
 };
 
 // Init
+
 window.addEventListener('DOMContentLoaded', app.showHome);
